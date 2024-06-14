@@ -1,0 +1,7 @@
+../Core/Src/flex.c:23:6:flex_init	4	static
+../Core/Src/flex.c:43:6:get_reading	4	static
+../Core/Src/flex.c:48:6:set_fingers_v	16	static
+../Core/Src/flex.c:60:6:flex_calc	24	static
+../Core/Src/flex.c:69:6:get_direction	4	static
+../Core/Src/flex.c:74:6:get_gear	4	static
+../Core/Src/flex.c:78:6:read_hand	16	static
